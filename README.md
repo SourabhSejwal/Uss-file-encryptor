@@ -1,6 +1,5 @@
 # Uss-file-encryptor
-Git is not allowing to upload more than 25MB for a file, So we are providing google drive link
-https://drive.google.com/drive/folders/1qX9hG21_P2ev2mkagqxJrnMKY3umweyU?usp=share_link
+Download the zip file to run it
 
 Please note the following instructions to successfully run the application:
 
