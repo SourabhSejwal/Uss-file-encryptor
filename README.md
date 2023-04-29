@@ -11,6 +11,10 @@ Please note the following instructions to successfully run the application:
 
 4. If the interface does not show up on the screen immediately, please wait patiently for a few moments. The application may take some time to load all necessary components and display the user interface.
 
-5. If there is any issue please do let us know
+5. Please makesure that your antivirus is not interfering the executable file
+
+6. If there is any issue, please do let us know :)
+
+
 
 Thank you for using our application. We hope you find it informative and enjoyable to use.
