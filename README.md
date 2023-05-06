@@ -1,5 +1,6 @@
 # Uss-file-encryptor
-Download the zip file to run it
+Download the zip from the link to run it
+Link:- https://drive.google.com/drive/folders/1qX9hG21_P2ev2mkagqxJrnMKY3umweyU?usp=sharing
 
 Please note the following instructions to successfully run the application:
 
