@@ -12,7 +12,7 @@ Please note the following instructions to successfully run the application:
 
 4. If the interface does not show up on the screen immediately, please wait patiently for a few moments. The application may take some time to load all necessary components and display the user interface.
 
-5. Please make sure that your antivirus is not interfering the executable file. DISABLE WINDOWS DEFENDER if you any encounter any error while downloading
+5. Please make sure that your antivirus is not interfering the executable file. DISABLE WINDOWS DEFENDER if you encounter any error while downloading
 
 6. If there is any issue, please do let us know :)
 
